@@ -1,10 +1,10 @@
 .c {
-  height: 100vh;
+  height: 109vh;
   position: relative;
 }
 
 .c-bg {
-  width: 20px;
+  width: 30px;
   height: 100%;
   background-color: orange;
   position: absolute;
