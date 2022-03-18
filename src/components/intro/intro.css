@@ -1,6 +1,7 @@
 .i {
   display: flex;
   height: 100vh;
+  overflow: hidden;
 }
 
 .i-left {
@@ -74,10 +75,11 @@
 }
 
 .i-img {
-  width: 100%;
+  width: 200%;
   height: 100%;
   object-fit: cover;
   position: absolute;
+  margin-left: -250px;
 }
 
 .i-bg {

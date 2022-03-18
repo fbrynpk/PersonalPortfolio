@@ -1,3 +1,5 @@
+import photo from "../src/img/5.png"
+
 export const products = [
   {
     id: 1,
@@ -6,8 +8,8 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://dochub.com/febryanputra12/DL7JlEGV1EYDrb0VrWe0oa/website-png",
-    link: "https://github.com/fbrynpk/fbrynpk.github.io",
+    img : '../src/img/5.png',
+    link: "https://github.com/fbrynpk/web-programming-final",
   },
   {
     id: 3,
